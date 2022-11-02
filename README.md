@@ -14,11 +14,11 @@ yarn install
 ```
 docker-compose up -d
 ```
-6. Crear datos de prueba en la DDBB
-```
-http://localhost:3000/api/seed
-```
-7. Iniciar aplicación en modo desarrollo
+6. Iniciar aplicación en modo desarrollo
 ```
 yarn start:dev
+```
+7. Crear datos de prueba en la DDBB
+```
+http://localhost:3000/api/seed
 ```
